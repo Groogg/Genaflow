@@ -220,7 +220,7 @@ def wal_selenium(folder_path, driver_path, url, html_username_attribute, login_u
                 valid = True
 
             else:
-                if counter >= 250:
+                if counter >= 500:
                     raise AirflowException("Wal-Mart report refresh timeout.")
                 else:
                     print("Waiting 25 seconds before trying again.")
