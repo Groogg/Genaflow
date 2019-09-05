@@ -1,0 +1,27 @@
+{
+  "jpc": {
+    "report_last_id": "F62_676.ZIP",
+    "report_next_week_starting_date": "2019-08-24",
+    "last_modified_date": "2019-08-31 00:03"
+  },
+  "wal": {
+    "report_last_id": "['1000.00000\\t1280 STEELES AVE E\\tMILTON\\tON\\tL9T 6R1\\t0082887500300\\tGENACOL PLUS\\t3.000000\\t201930.000000\\n', '1000.00000\\t1280 STEELES AVE E\\tMILTON\\tON\\tL9T 6R1\\t0082887510100\\tGENACOL PAIN RELI 90\\t3.000000\\t201930.000000\\n', '1001.00000\\t2320 HIGHWAY 2\\tBOWMANVILLE\\tON\\tL1C 3K7\\t0082887510100\\tGENACOL PAIN RELI 90\\t2.000000\\t201930.000000\\n', '1008.00000\\t5217 POWER CENTRE BLVD\\tDRAYTON VALLEY\\tAB\\tT7A 0A5\\t0082887500200\\tGENACOL F. ORIGINALE\\t1.000000\\t201930.000000\\n', '1009.00000\\t5005 DAHL DR P O BOX 1947\\tWHITECOURT\\tAB\\tT7S 1P6\\t0082887510100\\tGENACOL PAIN RELI 90\\t1.000000\\t201930.000000\\n']",
+    "report_next_week_starting_date": "2019-08-24",
+    "last_modified_date": "2019-08-30 10:28"
+  },
+  "cos": {
+    "report_last_id": "['Item;Venue;Latest 1 Week;Latest 1 Week;Latest 1 Week;Latest 1 Week;Latest 1 Week;Latest 1 Week;Latest 1 Week\\n', 'Item;Venue;Item Number;City;State or Province;Warehouse Code;Address;Postal Code;Unit Sales\\n', \"ITEM 000986344 GENACOL COLLAGEN 270'S T9L90FBP360;AB;986344;;;;;;-2.0\\n\", \"ITEM 000986344 GENACOL COLLAGEN 270'S T9L90FBP360;WAREHOUSE 1034 AIRDRIE DRY;986344;AIRDRIE;AB;1034;1003 HAMILTON BLVD NE;T4A 0G2;\\n\", \"ITEM 000986344 GENACOL COLLAGEN 270'S T9L90FBP360;WAREHOUSE 1035 AIRDRIE WET;986344;AIRDRIE;AB;1035;1003 HAMILTON BLVD NE;T4A 0G2;\\n\"]",
+    "report_next_week_starting_date": "2019-08-12",
+    "last_modified_date": "2019-08-14 13:50"
+  },
+  "uni": {
+    "report_last_id": "LAB_10_13_SEMAINES_20190830.xls",
+    "report_next_week_starting_date": "2019-08-22",
+    "last_modified_date": "2019-08-30 00:03"
+  },
+  "shp": {
+    "report_last_id": "['Region', 'Site #', 'Site Name', 'UPC Code', 'UPC Description', 'UPC Pack Size', ' ', '201923', '201924', '201925', '201926', '201927', '201928', '201929', '201930', '201931', '201932', '201933', '201934']",
+    "report_next_week_starting_date": "2019-08-31",
+    "last_modified_date": "2019-09-01 02:03"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "jpc": {
+    "online_portal": {
+      "url": "https://ted.jeancoutu.com/action/login",
+      "login_username": "PRIVATE",
+      "login_password": "PRIVATE",
+      "html_username_attribute": ":2",
+      "html_password_attribute": ":3",
+      "html_login_button_attribute": "login-bts"
+    },
+    "report": {
+      "id_type": "name"
+    }
+  },
+  "cos": {
+    "online_portal": {
+      "url": "https://advantage.iriworldwide.com/CRXRPM/SplashLogin.jsp",
+      "login_username": "PRIVATE",
+      "login_password": "PRIVATE",
+      "html_username_attribute": "",
+      "html_password_attribute": ""
+    },
+    "report": {
+      "id_type": "rows"
+    }
+  },
+  "uni": {
+    "online_portal": {
+      "url": "https://extranet.uniprix.net/index.php",
+      "login_username": "PRIVATE",
+      "login_password": "PRIVATE",
+      "html_username_attribute": "Username",
+      "html_password_attribute": "Password",
+      "html_login_button_attribute": "btnSubmit"
+    },
+    "report": {
+      "id_type": "name"
+    }
+  },
+  "wal": {
+    "online_portal": {
+      "url": "https://retaillink.wal-mart.com",
+      "login_username": "PRIVATE",
+      "login_password": "PRIVATE",
+      "html_username_attribute": "txtUser",
+      "html_password_attribute": "txtPass",
+      "html_login_button_attribute": "Login"
+    },
+    "report": {
+      "id_type": "rows"
+    }
+  },
+  "shp": {
+    "online_portal": {
+      "url": "https://shoppersdrugmart.precima.io/login",
+      "login_username": "PRIVATE",
+      "login_password": "PRIVATE",
+      "html_username_attribute": "mat-input-0",
+      "html_password_attribute": "passwordInput",
+      "html_login_button_attribute": "signin-button mat-raised-button ng-star-inserted"
+    },
+    "report": {
+      "id_type": "rows"
+    }
+  },
+  "paths": {
+    "download_report_folder": "/home/genacol/projects/genaflow/airflow_home/dags/pos/data/report_download",
+    "chrome_driver_path": "/usr/bin/chromedriver",
+    "report_tracker_json_path": "/home/genacol/projects/genaflow/airflow_home/dags/pos/data/report_tracker.json",
+    "report_archive": "/home/genacol/projects/genaflow/airflow_home/dags/pos/data/report_archive",
+    "report_failed": "/home/genacol/projects/genaflow/airflow_home/dags/pos/data/report_failed",
+    "sql": "/home/genacol/projects/genaflow/airflow_home/dags/pos/sql",
+    "shp_master_folder": "/home/genacol/projects/genaflow/airflow_home/dags/pos/data/shp_store/master",
+    "shp_update_folder": "/home/genacol/projects/genaflow/airflow_home/dags/pos/data/shp_store/update"
+  },
+  "pos_dump_report_id": "None",
+  "databases": {
+    "drivers": {
+      "sql_server_17": "?driver=ODBC+Driver+17+for+SQL+Server"
+    },
+    "asterix_test": {
+      "pos_table_column_name_order": [
+        "ref_itemnmbr",
+        "store_city",
+        "store_province",
+        "store_id",
+        "store_address",
+        "store_postalCode",
+        "ref_custnmbr",
+        "pos_qty",
+        "week_starting"
+      ]
+    },
+    "obelix_prod": {
+      "pos_table_column_name_order": [
+        "ref_itemnmbr",
+        "store_city",
+        "store_province",
+        "store_id",
+        "store_address",
+        "store_postalCode",
+        "ref_custnmbr",
+        "pos_qty",
+        "week_starting"
+      ]
+    }
+  },
+  "email": {
+    "airflow_alerts": [
+      "gregg.gilbert@genacol.ca",
+      "gregggilbert16@gmail.com",
+      "caroline.baker@genacol.ca"
+    ]
+  }
+}
