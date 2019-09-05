@@ -1,10 +1,10 @@
 
 # TL;TR
-*** This repository is censored from private data and is simply a snapshoot of the real project. The idea is to present what have been done.
+*** This repository is censored from private data and is simply a snapshot of the real project (taken on the 2019-09-05). The idea is to present what have been done.
 Genaflow is an [Apache Airflow](https://airflow.apache.org/) data pipeline. At the moment, here is the Airflow instance description:  
 -   Runs locally on your machine
 -   Uses SQLite to store Airflow metadata
--   Uses Airflow’s `Sequential Executer` to run tasks
+-   Uses Airflow’s `Sequential Executor` to run tasks
 
 # Setup  
   
